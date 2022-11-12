@@ -98,7 +98,7 @@
 <br/>  
 
 <div align="center">
-<div align="center">Hit counter:</div>
+<div align="center">Total profile visits:</div>
 <img src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" align="center" />
 </div>  
 
