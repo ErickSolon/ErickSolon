@@ -57,11 +57,11 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ericksolon&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ericksolon&theme=dark&hide_border=false)<br/> -->
-
+![](https://github-readme-stats.vercel.app/api?username=ericksolon&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksolon&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ericksolon&theme=dark&hide_border=false) -->
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ericksolon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
