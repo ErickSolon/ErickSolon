@@ -1,6 +1,6 @@
 
 # 💻 Tech Stack:
-![Shell Script](https://img.shields.io/badge/shell_script-3670F0?style=for-the-badge&logo=shell_script&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell%20script-3677F0?style=for-the-badge&logo=linux&logoColor=ffed54)
 ![Delphi](https://img.shields.io/badge/delphi-3670A0?style=for-the-badge&logo=delphi&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
