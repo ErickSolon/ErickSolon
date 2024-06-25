@@ -1,6 +1,8 @@
 
 # 💻 Tech Stack:
-![VB.NET](https://img.shields.io/badge/vb.net-%230F9FF0.svg?style=for-the-badge&logo=visualbasic&logoColor=white)
+#![RubyOnRails](https://img.shields.io/badge/ruby%20on%20rails-%230F9FF0.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
+#![Ruby](https://img.shields.io/badge/ruby-%230F9FF0.svg?style=for-the-badge&logo=ruby&logoColor=white)
+#![VB.NET](https://img.shields.io/badge/vb.net-%230F9FF0.svg?style=for-the-badge&logo=visualbasic&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell%20script-3677F0?style=for-the-badge&logo=linux&logoColor=ffed54)
 ![Delphi](https://img.shields.io/badge/delphi-3670A0?style=for-the-badge&logo=delphi&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
